@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background: url(hacker.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    color:white;
+}
+
+div {
+    display:inline-block;
+    background:black;
+}
+h1{
+    display:inline-block;
+    background:black;
+    
+}
