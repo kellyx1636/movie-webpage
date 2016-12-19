@@ -1,4 +1,4 @@
-body{
+body {
     font-family: audiowide;
     background: black; 
     background-size: cover;
@@ -9,13 +9,14 @@ div {
     display:inline-block;
     background:black;
 }
-h1{
+
+h1 {
     display:inline-block;
     background:black;
     
 }
 
-.rom-not{
+.rom-not {
     font-size:10px;
 }
 
