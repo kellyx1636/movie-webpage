@@ -1,6 +1,6 @@
 body{
-    text-align:center;
-    background: url(hacker.jpg) no-repeat center center fixed; 
+    font-family: audiowide;
+    background: black; 
     background-size: cover;
     color:white;
 }
@@ -13,4 +13,12 @@ h1{
     display:inline-block;
     background:black;
     
+}
+
+.rom-not{
+    font-size:10px;
+}
+
+img {
+    size:10px;
 }
