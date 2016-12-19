@@ -22,4 +22,5 @@ h1 {
 
 img {
     size:10px;
+    max-height: 600px;
 }
