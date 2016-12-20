@@ -1,4 +1,5 @@
 body{
+    text-align:center;
     font-family: audiowide;
     background: black; 
     background-size: cover;
@@ -6,6 +7,8 @@ body{
 }
 
 div {
+    margin: 20px;
+    padding: 10px;
     display:inline-block;
     background:black;
 }
@@ -18,7 +21,16 @@ h1{
 .rom-not{
     font-size:10px;
 }
+.vr-guy{
+    float: left;
+    display:block;
+    height: 100px;
+    width: 100px;
+}
 
-img {
-    size:10px;
+#hacker{
+    float: right;
+    display:block;
+    height: 200px;
+    width: 250px;
 }
