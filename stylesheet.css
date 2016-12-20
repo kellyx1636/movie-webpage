@@ -22,7 +22,9 @@ h2 {
 
 .rom-not {
     font-size:10px;
+    position: relative;
 }
+
 .vr-guy{
     float: left;
     display:block;
@@ -30,16 +32,9 @@ h2 {
     width: 100px;
 }
 
-
-<<<<<<< HEAD
-.vr-guy {
-    max-height: 100px;
-    max-width: 100px;
-=======
 #hacker{
     float: right;
     display:block;
     height: 200px;
     width: 250px;
->>>>>>> 873604e1384e7476aa0585c821ab01db4a0804aa
 }
