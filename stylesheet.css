@@ -1,5 +1,7 @@
+
 body{
     text-align:center;
+
     font-family: audiowide;
     background: black; 
     background-size: cover;
@@ -12,13 +14,14 @@ div {
     display:inline-block;
     background:black;
 }
-h1{
+
+h1 {
     display:inline-block;
     background:black;
     
 }
 
-.rom-not{
+.rom-not {
     font-size:10px;
 }
 .vr-guy{
@@ -27,6 +30,7 @@ h1{
     height: 100px;
     width: 100px;
 }
+
 
 #hacker{
     float: right;
